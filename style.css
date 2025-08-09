@@ -1,0 +1,142 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(135deg, #000000, #1e293b, #0f172a);
+  color: white;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+  position: relative;
+}
+
+h1 {
+  font-size: 3.5rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: -1px;
+}
+
+p {
+  font-size: 1.25rem;
+  max-width: 600px;
+  margin-bottom: 2rem;
+  color: #cbd5e1;
+}
+
+.button {
+  padding: 0.75rem 2rem;
+  background: #7c3aed;
+  color: white;
+  border: none;
+  border-radius: 9999px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.button:hover {
+  transform: scale(1.05);
+}
+
+footer {
+  position: absolute;
+  bottom: 1rem;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 0.875rem;
+  color: #94a3b8;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeInUp 1s ease forwards;
+}
+
+#video-player {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: black;
+  transition: opacity 0.5s ease;
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: black;
+  transition: opacity 0.5s ease;
+}
+
+video::-webkit-media-controls {
+  display: none !important;
+}
+
+#final-message {
+  display: none;
+  font-size: 2rem;
+  color: #cbd5e1;
+  opacity: 0;
+  transform: translateY(30px);
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.3rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    padding: 0 1rem;
+  }
+
+  .button {
+    padding: 0.5rem 1.5rem;
+    font-size: 0.85rem;
+  }
+
+  #final-message {
+    font-size: 1.33rem;
+  }
+
+  footer {
+    font-size: 0.66rem;
+  }
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+.fade-out {
+  animation: fadeOut 1s ease forwards;
+}
+
+#video-player-2 {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: black;
+  transition: opacity 0.5s ease;
+}
