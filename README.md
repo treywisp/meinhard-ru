@@ -1,27 +1,53 @@
-In the thick grass and wildflowers stands a little house. From any side you look, it’s a real fairy-tale cottage: carved shutters, and windows that shine like colorful candies.
-A little mouse was passing by. Amazed at such beauty, he knocked on the door and asked:
-— Who lives in the little cottage?
-No one answered. So the mouse went inside and decided to stay there. He lived happily.
-A little frog hopped by. He saw the cottage, stopped, and asked:
-— Who lives in the little cottage?
-The mouse replied:
-— Just me, the mouse. Come in! Life is more fun together!
-And so the mouse and the frog began living together. They were happy, decorating the cottage and keeping it tidy.
-The leaves nearby rustled, and a little hedgehog appeared by the cottage. He looked closer, sniffed around, and liked the cottage very much. He came nearer and asked:
-— Who lives in the little cottage?
-The mouse and the frog replied:
-— We, the mouse and the frog. Come in! Life is more fun together!
-And so they began living together.
-A little hare was passing by. He liked the cottage, knocked on the door, and asked:
-— Who lives in the little cottage?
-The mouse, the frog, and the hedgehog replied:
-— We, the mouse, the frog, and the hedgehog. Come in! Life is more fun together!
-The hare gladly joined the company of cheerful and kind friends.
-A big bear came along. He stopped and asked:
-— Who lives in the little cottage?
-— We, the mouse, the frog, the hedgehog, and the hare. Come in! Life is more fun together!
-The bear tried to get into the cottage. He was big, and the cottage was small — he squeezed this way and that, but couldn’t fit. So the bear said:
-— I can’t get inside, so I’ll just sit on your roof.
-The little animals got worried — what if the bear crushed the cottage? The bear promised he wouldn’t and that he’d be careful. So they let him climb onto the roof.
-But as soon as the bear climbed up, the cottage collapsed into tiny pieces. Luckily, the mouse, the frog, the hedgehog, and the hare managed to jump out in time.
-The friends looked at each other and immediately began building again. The new cottage turned out so big and beautiful that it was a joy to behold.
+В густой траве да полевых цветах стоит домик. С какой стороны ни глянь — настоящий теремок, ставенки резные, а окошки блестят как разноцветные леденцы.
+
+Пробегал мимо мышонок. Удивился такой красоте, постучал в двери и спрашивает:
+
+— Кто в теремке живёт?
+
+Ему никто не ответил. Зашел тогда мышонок в терем и остался там жить. Живёт припеваючи.
+
+Скакал мимо лягушонок. Увидел теремок. Остановился и спрашивает:
+
+— Кто в теремке живёт?
+
+А мышонок ему в ответ:
+
+— Только я, мышонок. Заходи ко мне! Вместе веселее жить!
+
+И стали мышонок и лягушонок жить вместе. Живут припеваючи. Теремок украшают, чисто прибирают.
+
+Зашелестела рядом листва и рядом с теремком оказался ёжик. Присмотрелся, принюхался, сильно ему теремок понравился. Подошёл ёжик поближе и спрашивает:
+
+— Кто в теремке живёт?
+
+Мышонок и лягушонок ему в ответ:
+
+— Мы, мышонок и лягушонок. Заходи к нам! Вместе веселее жить!
+
+И стали они жить вместе.
+
+Пробегал мимо зайчонок. Приглянулся ему теремок. Постучался в двери и спрашивает:
+
+— Кто в теремке живёт?
+
+Мышонок, лягушонок и ёжик ему в ответ:
+
+— Мы, мышонок, лягушонок и ёжик. Заходи к нам! Вместе веселее жить!
+
+Зайчонок с радостью стал жить в компании веселых и добрых друзей.
+
+Проходил мимо медведь косолапый. Остановился и спрашивает:
+
+— Кто в теремке живёт?
+
+— Мы, мышонок, лягушонок, ёжик и зайчонок. Заходи к нам! Вместе веселее жить!
+
+И полез медведь в теремок. Сам большой, а теремок маленький, лез-лез, и так и сяк — не выходит. Вот косолапый и говорит:
+
+— В теремок залезть не могу, посижу тогда у вас на крыше.
+
+Испугались зверята. Как бы медведь теремок не раздавил. А медведь всё обещает, что не раздавит, что осторожным будет. Они ему и разрешили залезть на крышу.
+
+Только медведь на крышу полез, как теремок развалился на маленькие кусочки. Хорошо, что мышонок, лягушонок, ёжик и зайчонок успели из него выскочить.
+
+Посмотрели тогда друзья друг на дружку и разом принялись за строительство. Новый теремок получился такой большой и красивый, что любо дорого глядеть.
